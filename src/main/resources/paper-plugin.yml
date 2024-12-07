@@ -1,0 +1,7 @@
+name: HNEnchant
+version: '1.0.0'
+main: hn.blacknight0981.hNEnchant.HNEnchant
+api-version: '1.21'
+authors: [ HN ]
+
+bootstrapper: hn.blacknight0981.hNEnchant.bootstrap.Bootstrap
